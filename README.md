@@ -1,4 +1,4 @@
-# Book Management
+
 # Flask Books REST API
 
 A simple RESTful API built using Flask that performs CRUD (Create, Read, Update, Delete) operations on a collection of books. The application stores book data in memory using a Python list and exposes endpoints for managing books.
@@ -262,10 +262,6 @@ This project was developed to practice:
 ---
 
 
-###Sample output
-
-<img width="1043" height="865" alt="image" src="https://github.com/user-attachments/assets/7884e7da-1896-4d9b-8f33-ec1b78837930" />
-<img width="1063" height="737" alt="image" src="https://github.com/user-attachments/assets/6df4acb2-380e-4021-88fe-75956eb457db" />
 
 
 ## Author
